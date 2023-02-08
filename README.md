@@ -1,2 +1,2 @@
 # email-HTML-CSS
-Email design and development 
+HTML email, formatted and styled using HTML and inline CSS.
